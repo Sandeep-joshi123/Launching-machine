@@ -45,3 +45,7 @@ While the current design uses basic DC motors, future iterations of the project 
 
 ✏️ Educational & Playful:
 Beyond the technical aspects, this project was designed with both education and entertainment in mind. It’s an engaging way to teach students about basic physics principles like force, motion, and aerodynamics, all while providing an enjoyable hands-on experience. The simple yet powerful design also offers opportunities for further experimentation and improvements. 🎓🎉
+
+
+
+#YOU CAN VIEW DETAILED DOCUMENTATION OF THE PROJECT IN https://github.com/Sandeep-joshi123/Launching-machine/wiki
